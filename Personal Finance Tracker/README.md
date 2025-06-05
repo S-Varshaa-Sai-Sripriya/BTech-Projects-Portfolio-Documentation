@@ -25,6 +25,7 @@ A simple, interactive, and extensible command-line tool to track personal income
 
     csv — persistent transaction storage
 
+https://github.com/user-attachments/assets/170d7b51-7a9e-4510-aa86-8afb8da6a040
 
 🔐 **Note**: This repository is a public demo for showcasing insights and output visuals of the Personal Finance Tracker project.  
 The full source code is maintained in a private repository to preserve originality.  
