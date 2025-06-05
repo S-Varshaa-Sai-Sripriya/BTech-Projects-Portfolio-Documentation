@@ -15,6 +15,11 @@ A simple, interactive, and extensible command-line tool to track personal income
 
     🧠 Intelligent input validation for dates, amounts, and categories
 
+
+🔐 **Note**: This repository is a public demo for showcasing insights and output visuals of the Personal Finance Tracker project.  
+The full source code is maintained in a private repository to preserve originality.  
+Access can be provided upon request for hiring purposes.
+
 🛠️ Tech Stack
 
     Python 3
@@ -25,9 +30,12 @@ A simple, interactive, and extensible command-line tool to track personal income
 
     csv — persistent transaction storage
 
+Demo:
+Video can be downloaded from demo folder.
+
 https://github.com/user-attachments/assets/170d7b51-7a9e-4510-aa86-8afb8da6a040
 
-🔐 **Note**: This repository is a public demo for showcasing insights and output visuals of the Personal Finance Tracker project.  
-The full source code is maintained in a private repository to preserve originality.  
-Access can be provided upon request for hiring purposes.
+Graphical Results:
+Result can be downloaded from demo folder.
 
+![Image](https://github.com/user-attachments/assets/997329d2-52eb-49a9-b271-37cf7c58e77c)
