@@ -2,6 +2,8 @@
 
 💰 Personal Finance Tracker
 
+Topics: Financial Analysis, Python
+
 A simple, interactive, and extensible command-line tool to track personal income and expenses. This project is designed to help users log financial transactions, analyze spending trends, and visualize savings using a clean and intuitive interface—all powered by Python.
 🚀 Features
 
