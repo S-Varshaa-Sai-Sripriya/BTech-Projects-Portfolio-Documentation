@@ -16,14 +16,11 @@ This repository contains the design and analysis of stepped-constant tapered slo
 
 | Parameter              | Rectangular Design | Circular Design |
 |------------------------|--------------------|-----------------|
-| Substrate Dimensions   | 70.5×58.7×1.5 mm  | 97.5×47.5×1.5 mm |
-| Dielectric Constant (ε)| 6.15 (Arlon AD 600) | 6.15 (Arlon AD 600) |
-| Number of Steps        | 15                 | 17               |
 | Step Length (SL)       | 8 mm               | 5 mm             |
 | Step Width (SW)        | 3.9 mm             | 2.9 mm increment |
 | Operating Frequency    | 10 GHz             | 10 GHz           |
 
-## Performance Results
+Other specifications in report submitted to AVV.
 
 ### Rectangular Configuration
 - Main lobe magnitude: 4.43 dBi at 10 GHz
