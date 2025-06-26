@@ -26,3 +26,5 @@ This repository serves as a central hub for showcasing practical demonstrations,
     📈 Data Engineering & Pipelines
 
     📦 Model Deployment & Scalable Serving
+
+The repo also contains projedts from my undergraduation - Folder: Electronics and Communication Engineering
