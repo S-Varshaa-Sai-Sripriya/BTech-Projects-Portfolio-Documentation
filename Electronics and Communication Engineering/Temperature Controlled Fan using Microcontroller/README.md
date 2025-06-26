@@ -37,9 +37,6 @@ This project implements a temperature-controlled DC fan system using a microcont
 - Mobile app interface
 - AI-based predictive cooling
 
-## Contributors
-- [S. Varshaa Sai Sripriya](mailto:your-email@example.com)
-
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
